@@ -9,6 +9,10 @@
     "start": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoxa2t/goit-js-hw-08.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
